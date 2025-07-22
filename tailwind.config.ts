@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				podcast: {
+					primary: 'hsl(var(--podcast-primary))',
+					secondary: 'hsl(var(--podcast-secondary))',
+					accent: 'hsl(var(--podcast-accent))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
